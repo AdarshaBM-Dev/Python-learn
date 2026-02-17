@@ -18,7 +18,7 @@ age_float = float(age)
 print(age_float)
 
 s = "100"
-print(int(s)+age)    #type conversion
+print(int(s)+age)      #type conversion
 
 #Arithmeatic operator
 
@@ -31,4 +31,5 @@ print(a/b)
 print(a//b)
 print(a%b)
 print(a**b)
+
 

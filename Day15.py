@@ -14,7 +14,7 @@ def marriage(boy, girl):
 marriage("Adarsha","Ranjitha") #Positional arguments
 marriage("Krishna", "Ranjitha")
 marriage(boy="Adarsha", girl="Ranjitha") #keword arguments  
-'''
+'''  
 
 def tables(num):
     for i in range(1,11):

@@ -4,7 +4,7 @@
 a = 10
 a += 100 #a = a + 100 shrt frrom
 print(a)
-
+ 
 #campairision operator
 a = 10
 b = 20

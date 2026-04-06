@@ -14,7 +14,7 @@ print ("I gave up")
 
 #while loop
 i = 0
-
+  
 while i<=10:         #attempts == iteration  1
     print("Adrsha"*i)
     i += 1

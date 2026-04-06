@@ -5,7 +5,7 @@ i = 1 #attempt
 while is_failed:      #condiion three
     if i%2!=0:  # is not even
         i = i + 1
-        continue 
+        continue   
     print(f"Attempt {i}")
     i = i + 1
     if i>100:

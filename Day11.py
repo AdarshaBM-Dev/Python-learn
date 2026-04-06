@@ -3,7 +3,7 @@ is_failed = True
 i = 1 #attempt
 
 while is_failed:      #condiion three
-    if i%2!=0:  # is not even
+    if i%2!=0:  # is not even   
         i = i + 1
         continue   
     print(f"Attempt {i}")

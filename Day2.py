@@ -12,7 +12,7 @@ age = 22 #int
 is_stdeent = False #bool
 weight = 69.5 #float
 
-print(type(weight))
+print(type(weight)) 
 
 age_float = float(age)
 print(age_float)

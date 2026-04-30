@@ -1,6 +1,6 @@
 '''#while
 is_failed = True
-i = 1 #attempt
+i = 1 #attempt  
 
 while is_failed:      #condiion three
     if i%2!=0:  # is not even   

@@ -6,7 +6,7 @@ print(add(1,100,45))
 
 
 
-#varible length arguments  
+#varible length arguments    
 def studen_info(**details):
     for key, value in details.items():
         print(f"{key}: {value}")

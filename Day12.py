@@ -5,7 +5,7 @@ for i in range(1,11):                #teration 1
 
 bag = ("red", "green", "blue")     #iteration 2
 
-for ball in bag:
+for ball in bag:  
     print(ball)
 
 for i in range(1,11,2):

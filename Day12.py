@@ -8,7 +8,7 @@ bag = ("red", "green", "blue")     #iteration 2
 for ball in bag:  
     print(ball)
 
-for i in range(1,11,2):
+for i in range(1,11,2):   
     print(i, end=" ")
 
 name = "Adarsha"                          #iteraton 3

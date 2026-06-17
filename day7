@@ -7,7 +7,7 @@ A tuple is a collection of items that is **ordered** and **immutable** (unchange
 #### **Syntax**:
 ```python
 my_tuple = (element1, element2, element3, ...)
-```
+   
 
 #### **Example**:
 ```python

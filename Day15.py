@@ -1,7 +1,7 @@
 #functon
 '''
 def greet():
-    print("Hello good mornig")   
+    print("Hello good mornig")      
  
 greet()
  

@@ -1,7 +1,7 @@
 #whlie
 is_failed = True
 i = 1 #attempt
-
+  
 while is_failed and i <= 100:    # coditio  one
     print(f"Try {i}")
     i = i + 1 

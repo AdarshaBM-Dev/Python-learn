@@ -4,7 +4,7 @@ i = 1 #attempt
   
 while is_failed and i <= 100:    # coditio  one  
     print(f"Try {i}")  
-    i = i + 1 
+    i = i + 1   
 print ("I gave up")
 
 while is_failed:      #condiion two

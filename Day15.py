@@ -4,7 +4,7 @@ def greet():
     print("Hello good mornig")         
  
 greet()
- 
+     
 
 def marriage(boy, girl):
     print(f"boy is {boy}") 
